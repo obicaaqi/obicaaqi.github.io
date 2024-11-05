@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obicaaqi.github.io/EKu/sitemap_index.txt
+Sitemap: https://obicaaqi.github.io/Wab/sitemap_index.txt
+Sitemap: https://obicaaqi.github.io/eHJ/sitemap_index.txt
+Sitemap: https://obicaaqi.github.io/mSi/sitemap_index.txt
